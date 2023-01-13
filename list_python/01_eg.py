@@ -29,4 +29,3 @@ print(list1+list2)
 # multiply
 l1 = [50 , 60 , 70  ]
 print(l1*3)
-
