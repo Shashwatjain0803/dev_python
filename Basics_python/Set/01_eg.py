@@ -18,4 +18,4 @@ print(set(l1))
 a = 10
 b = 10.0
 print(type(a), type(b))
-print(a == b) # content comparison
+print(a == b) # content comparisonb
